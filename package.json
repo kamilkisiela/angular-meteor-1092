@@ -1,0 +1,13 @@
+{
+  "name": "angular-meteor-1092",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "angular": "^1.5.5",
+    "angular-meteor": "^1.3.10",
+    "casual": "^1.5.2",
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
